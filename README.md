@@ -103,7 +103,7 @@
   MissionAchievementController stores all achievement data (daily,weekly,achievements) and displays them
   according to remote config. At start, after missions initialized, each mission listen relevant GameEvent and updates its state
   accordingly. After mission is completed, it fires OnStateChange event and MissionAchievementController handles it accordingly.
-  [FollowCamera](#followcamera:)
+  [FollowCamera](#followcamera)
   </details>
 </details>
 
